@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import UsersProvider from "./context/context";
-import Users from "./components/users";
+import Users from "./components/Users";
 import Home from "./components/Home";
 import UserDetails from "./components/UserDetails"
 
